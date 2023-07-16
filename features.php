@@ -13,9 +13,9 @@
 		<li>Phase 1 (Proof of concept)
 			<ol>
 				<li>Generate unique identity tokens to identify unique users</li>
-				<li>Create chuckle api</li>
+				<li><del>Create chuckle api</del></li>
 				<li>Create chuckle (frontend)</li>
-				<li>Get recent 100 chuckles api</li>
+				<li><del>Get recent 100 chuckles api</del></li>
 				<li>Display to recent 100 chuckles (frontend)</li>
 				<li>API to generate internal token used to authenticate internal api (this can be used in the future to reset the api key)</li>
 				<li>Authentication middleware to authenticate API</li>
